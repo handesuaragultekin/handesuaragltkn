@@ -1,7 +1,6 @@
 # 👋 Merhaba, ben Hande Şuara Gültekin
 
-🎓 Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim.  
-🚀 TEI (TUSAŞ Engine Industries) 2025 Yaz Staj Programı kapsamında staja başlıyorum.  
+🎓 Elektrik-Elektronik Mühendisliği son sınıf öğrencisiyim.    
 🛠️ İlgi alanlarım: BLDC motor tasarımı, elektromanyetik simülasyon, kontrol sistemleri, gömülü sistemler.  
 🔧 Kullandığım araçlar: MATLAB, ANSYS Maxwell, Multisim, PSpice, CircuitVerse
 
